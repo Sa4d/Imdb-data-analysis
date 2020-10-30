@@ -3,10 +3,10 @@ The selected dataset is TMDb Movie Data which contains information about imdb mo
 
 The explored questions are:
 
-What are the Top 10 Movies by Rating?
+what year had the most movies releases?
 
-What is the distribution of average movies ratings?
+What year had the most profits?
 
-What is the Number of Produced Movies by Genres?
+what is the average of the length of the movies (runtime)?
 
-What is the maximum production for each genre number in a year?
+finding the correlation between the revenue and budget
